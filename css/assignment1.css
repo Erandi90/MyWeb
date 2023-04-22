@@ -1,39 +1,42 @@
 .redDiv{
-width: 200px;
-height: 200px;
-background-color: red;
-position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    top: 5px;
+    left: 5px;
 }
 .blueDiv{
-width: 200px;
-height: 200px;
-background-color:blue;
-position: absolute ;
-bottom: 5px;
-left: 10px;
+    width: 200px;
+    height: 200px;
+    background-color:blue;
+    position: absolute ;
+    top: 5px;
+    right: 5px;
 }
 .pinkDiv{
-width: 200px;
-height: 200px;
-background-color: green;
-position: absolute;
-top: 80%;
+    width: 200px;
+    height: 200px;
+    background-color:pink;
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
 }
 .orangeDiv{
     width: 200px;
     height: 200px;
     background-color: orange;
     position: absolute;
-    top: 50%;
-    bottom: 50%;
+    top: 200px;
+    left: 500px;
 }
 .greenDiv{
     width: 200px;
     height: 200px;
     background-color: green;
     position:  absolute;
-    align-items: center;
-    right: 80%;
+    bottom: 5px;
+    right: 5px;
 }
 
 
