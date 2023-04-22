@@ -1,0 +1,20 @@
+.div{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin-bottom: 10px;
+    flex: 1 auto;
+}
+.div2{
+
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin-bottom: 10px;
+    flex: 2 auto;
+}
+.container{
+    display: flex ;
+    flex-direction:  column;
+    
+}

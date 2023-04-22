@@ -1,0 +1,37 @@
+.myDiv{
+    position: absolute;
+    top: 35%;
+    left: 45%;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+.userName{
+    
+    padding: 5px;
+    border-radius: 100px;
+}
+.email{
+   
+    padding: 5px;
+    border-radius: 100px;
+}
+.password{
+    
+    padding: 5px;
+    border-radius: 100px;
+}
+.comfirmpassword{
+    
+    padding: 5px;
+    border-radius: 100px;
+}
+.mybt{
+    width: 120px;
+    background-color: #2ecc71;
+    padding: 5px;
+    color: white;
+    border-radius: 60px;
+    margin-left: 10%;
+
+}
